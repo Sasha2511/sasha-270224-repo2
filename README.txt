@@ -14,3 +14,5 @@ adding to fix42
 
 Changed by Some User
 
+Changed in sample progect master
+
